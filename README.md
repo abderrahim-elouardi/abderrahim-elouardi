@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abderrahim El ouardi</h1>
 <h3 align="center">computer science student</h3>
 
-- 🔭 I’m currently studying at **Sidi Mohamed Ben Abdellah Universite in Fès , Morocco**
+- 🔭 I’m currently studying at **Sidi Mohamed Ben Abdellah Universite **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
